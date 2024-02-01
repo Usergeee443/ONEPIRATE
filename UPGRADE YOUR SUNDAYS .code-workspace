@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "UPGRADE YOUR SUNDAYS ",
+			"path": "."
+		},
+		{
+			"name": "login",
+			"path": "../dasturlar2/login"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login"
+	}
+}
